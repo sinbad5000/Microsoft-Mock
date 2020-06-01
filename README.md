@@ -4,11 +4,10 @@ The goal of this is to get you confortable creating a website from a pre-existin
 
 ## Getting started
 
-You can either *FORK and CLONE* this repository or you can create your own and push it up to github.
--
+>You can either *FORK and CLONE* this repository or you can create your own and push it up to github.
 
 This is the Microsoft US page:
-![Microsoft Home Page]("./MicrosoftMockImg.png")
+![Microsoft Home Page]("MicrosoftMockImg.png")
 
 Go to the Microsoft homepage and start finding the boxes. Once you have those boxes, make your skeleton and get some content in there! If it's in a box, it'll be in a div (or sematic tag that functions like a div)
 
