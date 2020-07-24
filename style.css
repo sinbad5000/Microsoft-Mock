@@ -26,7 +26,7 @@
 
   }
   
-  .menu {
+  .col-3 {
     display: inline-block;
     position: absolute;
     
@@ -43,13 +43,14 @@
     display: flex;
     flex-flow: row;
     justify-content: space-between;
+    align-content: space-between;
   }
 
-  .lpic{
-      justify-content: center;
-      align-content: center;
+  .Lpic{
+      justify-content: space-between;
+      align-content: space-between;
   }
   .pic{
-    justify-content: center;
-    align-content: center;
+    justify-content: space-between;
+    align-content: space-between;
   }
